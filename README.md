@@ -1,6 +1,6 @@
 # 🐍 Snake Game with SoundFX 🎮🔊
 
-A fun, classic **Snake Game** built with **Python** and enhanced with immersive **sound effects**. Eat food, grow your snake, and avoid walls or your tail – all while enjoying sound effects for every action! 🚀
+A fun, classic **Snake Game** built with **C++** and enhanced with immersive **sound effects**. Eat food, grow your snake, and avoid walls or your tail – all while enjoying sound effects for every action! 🚀
 
 ## 🚀 Features
 
